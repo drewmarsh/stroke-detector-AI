@@ -1,5 +1,9 @@
 # ❓Running the program in any browser
-1. Navigate to where the Jupyter Notebook was uploaded onto [Google Colab](colab.research.google.com/drive/1gUbvZCjDTxzFoz_blbkDKQwGoaY81uNG?usp=sharing), a cloud-based platform for running code without downloading any local files.
+1. Navigate to where the Jupyter Notebook was uploaded onto Google Colab, a cloud-based platform for running code without downloading any local files.
+
+   ```
+   colab.research.google.com/drive/1gUbvZCjDTxzFoz_blbkDKQwGoaY81uNG?usp=sharing
+   ```
    
 2.	If you are not currently logged into a Google account you will be required to sign into one. 
 
